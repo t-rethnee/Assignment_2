@@ -164,8 +164,6 @@ align-items: flex-start;
 gap: 24;
 padding: 0px;
 
-
-/* Inside Auto Layout */
 flex: none;
 order: 0;
 flex-grow: 0;
@@ -200,7 +198,7 @@ text-align: left;
 .btn-lower-porsion{
   border-radius: 12px;
   background: rgb(17, 17, 17);
-  /* Frame 3 */
+  
 position: static;
 width: 197px;
 height: 50px;
